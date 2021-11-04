@@ -2,7 +2,9 @@
 <h3 align="center">What we know is a Drop, What we don't know is an Ocean.</h3>
 
 
-- 🔭 I’m currently working on **A lot of Projects...**
+- 🔭 I’m currently working on **Some of the Projects...**
+
+- 📋 Here are my `Gists` [Github Gists](https://gist.github.com/desi-programmer)
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
