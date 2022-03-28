@@ -1,22 +1,23 @@
-<h1 align="center">Hi 👋, I'm Desi Programmer 👩‍💻</h1>
-<h3 align="center">What we know is a Drop, What we don't know is an Ocean.</h3>
+<h1 align="center">Hi 👋, I'm Prince ( Desi Programmer ) 👩‍💻</h1>
+<h3 align="center">I believe in...</h3>
+<h3 align="center" style="font-style:italic;">What I know is a Drop, What I have to learn is an Ocean.</h3>
 
 
-- 🔭 I’m currently working on **Some Projects and a bootstrap like layout library for Flutter ...**
+- 🔭 I’m currently working on **Learning Mathematics for ML and Getting better with flutter, nextjs, jetpack compose ...**
 
 - 📋 Here are my `Gists` [Github Gists](https://gist.github.com/desi-programmer)
 
 - 🌱 I’m currently learning **Jetpack Compose and other scalable Stacks.**
 
-- 👨‍💻 Visit [www.desiprogrammer.com](https://www.desiprogrammer.com)
+- 👨‍💻 VisitMy Website : [Here 🙂](https://www.desiprogrammer.com)
 
 - 📝 I regularly write articles on [www.desiprogrammer.com/blogs](https://www.desiprogrammer.com/blogs)
 
-- 💬 Ask me about **react, flutter, python, nodejs, Shell Scripting....**
+- 📝 Here is my backup blogs at hashnode [Blogs](https://desiprogrammer.hashnode.dev)
 
-- 📫 How to reach me **desiprogrammerofficial@gmail.com**
+- 📫 How to reach me ? [Mail Here](desiprogrammerofficial@gmail.com)
 
-- ⚡ Fun fact **Started with so much Struggle ( Coding wise ), I Never knew I could learn this 🙂🙂**
+- ⚡ Fun fact **Started with so much Struggle ( Coding wise ), I Never knew I could learn this all 😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
