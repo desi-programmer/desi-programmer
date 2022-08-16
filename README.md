@@ -2,7 +2,6 @@
 <h3 align="center">I believe in...</h3>
 <h3 align="center" style="font-style:italic;">What I know is a Drop, What I have to learn is an Ocean.</h3>
 
-
 - 🔭 I’m currently working on **Learning Mathematics for ML and Getting better with flutter, nextjs, jetpack compose ...**
 
 - 📋 Here are my `Gists` [Github Gists](https://gist.github.com/desi-programmer)
@@ -15,7 +14,7 @@
 
 - 📝 Here is my backup blogs at hashnode [Blogs](https://desiprogrammer.hashnode.dev)
 
-- 📫 How to reach me ? [Mail Here](desiprogrammerofficial@gmail.com)
+- 📫 How to reach me ? [E-Mail Here](desiprogrammerofficial@gmail.com)
 
 - ⚡ Fun fact **Started with so much Struggle ( Coding wise ), I Never knew I could learn this all 😎**
 
