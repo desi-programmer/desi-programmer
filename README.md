@@ -31,6 +31,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=desi-programmer&show_icons=true&locale=en" alt="desi-programmer" /></p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=desi-programm&ring=DD5F2A)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=desi-programmer&ring=DD5F2A)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=desi-programmer" alt="Desi Programmer Most used language" /> </p>
