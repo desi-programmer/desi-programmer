@@ -20,10 +20,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/desiprogrammer" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/instagram.svg" alt="desiprogrammer" height="80" width="80" /></a><a href="https://www.youtube.com/c/desiprogrammer" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/yt.svg" alt="desiprogrammer" height="80" width="80" /></a>
-<a href="https://twitter.com/desiprogrammer_" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/twitter.svg" alt="desiprogrammer_" height="80" width="80" /></a>
-<a href="https://fb.com/desiprogrammerofficial" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/facebook.svg" alt="desiprogrammerofficial" height="80" width="80" /></a>
-<a href="https://medium.com/@desiprogrammer" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@desiprogrammer" height="80" width="80" /></a><a href="https://discord.gg/Qf9Ty24kWp" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/discord.png" alt="Discord" height="50" width="50" /></a><a href="https://gitlab.com/desiprogrammer" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/gitlab.svg" alt="desiprogrammer" height="80" width="80" /></a>
+
+<a href="https://instagram.com/desiprogrammer" target="blank"><img align="center" src="./static/instagram.svg" alt="desiprogrammer" height="80" width="80" /></a>
+<a href="https://www.youtube.com/c/desiprogrammer" target="blank"><img align="center" src="./static/yt.svg" alt="desiprogrammer" height="80" width="80" /></a>
+<a href="https://twitter.com/desiprogrammer_" target="blank"><img align="center" src="./static/twitter.svg" alt="desiprogrammer_" height="80" width="80" /></a>
+<a href="https://fb.com/desiprogrammerofficial" target="blank"><img align="center" src="./static/facebook.svg" alt="desiprogrammerofficial" height="80" width="80" /></a>
+<a href="https://medium.com/@desiprogrammer" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-2210/24/Medium-512.png" alt="@desiprogrammer" height="80" width="80" /></a>
+<a href="https://discord.gg/Qf9Ty24kWp" target="blank"><img align="center" src="https://desiprogrammer.com/static/icons/discord.png" alt="Discord" height="50" width="50" /></a>
+<a href="https://gitlab.com/desiprogrammer" target="blank"><img align="center" src="./static/gitlab.svg" alt="desiprogrammer" height="80" width="80" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
